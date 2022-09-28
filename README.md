@@ -16,4 +16,6 @@ This weather website is to show the weather outlook of a number of cities in ord
 
 ## Deployed View
 
-link;
+link; https://favour01216.github.io/weather-dashboard/
+<img width="1440" alt="Screen Shot 2022-09-27 at 11 50 50 PM" src="https://user-images.githubusercontent.com/112361368/192673974-3ad65e96-ebd5-40ee-9013-0b607c0e889d.png">
+
